@@ -1,18 +1,18 @@
 2,2
 3,3
-4,algebra
+4,full algebra factors
 5,3
 6,2
 7,5
-8,algebra
-9,algebra
+8,full algebra factors
+9,full algebra factors
 10,2
 11,17
 12,2
 13,5
 14,3
 15,3
-16,algebra
+16,full algebra factors
 17,3
 18,2
 19,19
@@ -21,18 +21,18 @@
 22,2
 23,5
 24,3
-25,algebra
+25,full algebra factors
 26,7
-27,algebra
+27,full algebra factors
 28,2
 29,5
 30,2
 31,7
-32,algebra
+32,full algebra factors
 33,3
 34,13
 35,313
-36,algebra
+36,full algebra factors
 37,13
 38,3
 39,349
@@ -45,7 +45,7 @@
 46,2
 47,127
 48,19
-49,algebra
+49,full algebra factors
 50,3
 51,4229
 52,2
@@ -60,7 +60,7 @@
 61,7
 62,3
 63,5
-64,algebra
+64,full algebra factors
 65,19
 66,2
 67,19
@@ -77,7 +77,7 @@
 78,2
 79,5
 80,3
-81,algebra
+81,full algebra factors
 82,2
 83,5
 84,17
@@ -96,7 +96,7 @@
 97,17
 98,13
 99,3
-100,algebra
+100,full algebra factors
 101,3
 102,2
 103,19
@@ -117,14 +117,14 @@
 118,5
 119,3
 120,5
-121,algebra
+121,full algebra factors
 122,5
 123,43
 124,599
-125,algebra
+125,full algebra factors
 126,2
 127,5
-128,algebra
+128,full algebra factors
 129,5
 130,2
 131,3
@@ -140,7 +140,7 @@
 141,3
 142,1231
 143,3
-144,algebra
+144,full algebra factors
 145,5
 146,7
 147,3
@@ -165,7 +165,7 @@
 166,2
 167,3
 168,3
-169,algebra
+169,full algebra factors
 170,17
 171,181
 172,2
@@ -192,7 +192,7 @@
 193,5
 194,3
 195,11
-196,algebra
+196,full algebra factors
 197,31
 198,2
 199,577
@@ -212,7 +212,7 @@
 213,137
 214,191
 215,3
-216,algebra
+216,full algebra factors
 217,281
 218,3
 219,13
@@ -221,7 +221,7 @@
 222,2
 223,239
 224,11
-225,algebra
+225,full algebra factors
 226,2
 227,5
 228,2
@@ -239,7 +239,7 @@
 240,2
 241,17
 242,19
-243,algebra
+243,full algebra factors
 244,3331
 245,3
 246,3
@@ -252,7 +252,7 @@
 253,19
 254,5
 255,5
-256,algebra
+256,full algebra factors
 257,23
 258,11
 259,2011
@@ -285,7 +285,7 @@
 286,13
 287,3
 288,3
-289,algebra
+289,full algebra factors
 290,3
 291,13
 292,2
@@ -320,7 +320,7 @@
 321,647
 322,227
 323,283
-324,algebra
+324,full algebra factors
 325,31
 326,26713
 327,5
@@ -339,7 +339,7 @@
 340,5
 341,7
 342,3
-343,algebra
+343,full algebra factors
 344,3
 345,103
 346,2
@@ -357,7 +357,7 @@
 358,2
 359,5
 360,2609
-361,algebra
+361,full algebra factors
 362,199
 363,7
 364,17
@@ -396,7 +396,7 @@
 397,5
 398,3
 399,7
-400,algebra
+400,full algebra factors
 401,127
 402,3
 403,167
@@ -437,7 +437,7 @@
 438,2
 439,5
 440,67
-441,algebra
+441,full algebra factors
 442,2
 443,47
 444,37
@@ -480,7 +480,7 @@
 481,19
 482,401
 483,79
-484,algebra
+484,full algebra factors
 485,99523
 486,2
 487,9967
@@ -508,7 +508,7 @@
 509,19
 510,67
 511,NA
-512,algebra
+512,full algebra factors
 513,17
 514,5
 515,2243
@@ -525,7 +525,7 @@
 526,43
 527,17
 528,5
-529,algebra
+529,full algebra factors
 530,3
 531,3
 532,1373
@@ -572,7 +572,7 @@
 573,19
 574,NA
 575,997
-576,algebra
+576,full algebra factors
 577,109
 578,521
 579,3
@@ -621,7 +621,7 @@
 622,7
 623,53
 624,3
-625,algebra
+625,full algebra factors
 626,3
 627,29
 628,29
@@ -672,7 +672,7 @@
 673,19
 674,61
 675,449
-676,algebra
+676,full algebra factors
 677,3
 678,127
 679,5
@@ -725,7 +725,7 @@
 726,2
 727,347
 728,3
-729,algebra
+729,full algebra factors
 730,13
 731,15427
 732,2
@@ -780,7 +780,7 @@
 781,59
 782,3
 783,43
-784,algebra
+784,full algebra factors
 785,3
 786,2
 787,11
@@ -837,7 +837,7 @@
 838,2
 839,3
 840,19
-841,algebra
+841,full algebra factors
 842,7
 843,269
 844,4289
@@ -896,7 +896,7 @@
 897,3
 898,4951
 899,3
-900,algebra
+900,full algebra factors
 901,59
 902,19
 903,31
@@ -957,7 +957,7 @@
 958,331
 959,3
 960,3
-961,algebra
+961,full algebra factors
 962,37
 963,NA
 964,37
@@ -996,7 +996,7 @@
 997,23
 998,7
 999,107
-1000,algebra
+1000,full algebra factors
 1001,3
 1002,3
 1003,11
@@ -1020,4 +1020,4 @@
 1021,73
 1022,3
 1023,19
-1024,algebra
+1024,full algebra factors
