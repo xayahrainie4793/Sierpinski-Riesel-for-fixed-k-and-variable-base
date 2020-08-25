@@ -1,4 +1,4 @@
-These are the status for all Sierpinski/Riesel bases b<=1024 for fixed k<=12.
+These are the status for all Sierpinski/Riesel bases 2<=b<=1024 for fixed k<=12.
 
 See https://github.com/xayahrainie4793/Extended-Sierpinski-Riesel-conjectures for more infornation.
 
