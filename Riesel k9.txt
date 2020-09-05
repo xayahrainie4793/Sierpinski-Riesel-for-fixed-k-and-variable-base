@@ -1,0 +1,1023 @@
+2,1
+3,1
+4,full algebra factors
+5,1
+6,1
+7,1
+8,1
+9,full algebra factors
+10,1
+11,5
+12,1
+13,1
+14,partial algebra factors
+15,1
+16,full algebra factors
+17,1
+18,11
+19,covering set
+20,1
+21,1
+22,1
+23,1
+24,partial algebra factors
+25,full algebra factors
+26,1
+27,23
+28,1
+29,covering set
+30,1
+31,1
+32,3
+33,1
+34,partial algebra factors
+35,1
+36,full algebra factors
+37,1
+38,43
+39,covering set
+40,1
+41,partial algebra factors
+42,17
+43,1
+44,partial algebra factors
+45,1
+46,3
+47,1
+48,1
+49,full algebra factors
+50,1
+51,1
+52,1
+53,3
+54,partial algebra factors
+55,3
+56,1
+57,partial algebra factors
+58,1
+59,covering set
+60,9
+61,1
+62,1
+63,1
+64,full algebra factors
+65,1
+66,1
+67,3
+68,3
+69,covering set
+70,3
+71,117
+72,1
+73,partial algebra factors
+74,partial algebra factors
+75,1
+76,1
+77,1
+78,1
+79,covering set
+80,1
+81,full algebra factors
+82,3
+83,1
+84,partial algebra factors
+85,1
+86,1
+87,91
+88,171
+89,partial algebra factors
+90,1
+91,1
+92,1
+93,7
+94,partial algebra factors
+95,35
+96,1
+97,1
+98,1
+99,covering set
+100,full algebra factors
+101,1
+102,17
+103,1
+104,partial algebra factors
+105,partial algebra factors
+106,1
+107,NA
+108,1
+109,covering set
+110,77
+111,1
+112,5717
+113,1
+114,partial algebra factors
+115,3
+116,249
+117,1
+118,1
+119,covering set
+120,3
+121,full algebra factors
+122,1
+123,5
+124,partial algebra factors
+125,1
+126,9
+127,1
+128,1
+129,partial algebra factors
+130,467
+131,3
+132,1
+133,3
+134,partial algebra factors
+135,1
+136,1
+137,partial algebra factors
+138,NA
+139,covering set
+140,1
+141,1
+142,1
+143,1
+144,full algebra factors
+145,1
+146,47
+147,1
+148,7
+149,covering set
+150,47
+151,4671
+152,1
+153,partial algebra factors
+154,partial algebra factors
+155,27
+156,33
+157,1
+158,35
+159,covering set
+160,1
+161,1
+162,25
+163,1
+164,partial algebra factors
+165,9
+166,1
+167,1
+168,1
+169,full algebra factors
+170,7
+171,1
+172,3
+173,1
+174,partial algebra factors
+175,1
+176,1
+177,1
+178,1
+179,covering set
+180,1
+181,5
+182,1
+183,1
+184,partial algebra factors
+185,partial algebra factors
+186,5
+187,3
+188,3887
+189,covering set
+190,1
+191,1
+192,3
+193,3
+194,partial algebra factors
+195,1
+196,full algebra factors
+197,1
+198,303
+199,covering set
+200,3
+201,partial algebra factors
+202,3
+203,5
+204,partial algebra factors
+205,1
+206,3
+207,NA
+208,1
+209,partial algebra factors
+210,1
+211,147
+212,1
+213,1
+214,partial algebra factors
+215,1
+216,11
+217,partial algebra factors
+218,177
+219,covering set
+220,1
+221,369
+222,1
+223,5
+224,partial algebra factors
+225,full algebra factors
+226,3
+227,1
+228,3
+229,covering set
+230,1
+231,1
+232,1
+233,partial algebra factors
+234,partial algebra factors
+235,5
+236,35
+237,NA
+238,1
+239,covering set
+240,7
+241,1
+242,3
+243,1
+244,partial algebra factors
+245,117
+246,1
+247,37
+248,33
+249,partial algebra factors
+250,5
+251,1
+252,1
+253,1
+254,partial algebra factors
+255,5633
+256,full algebra factors
+257,5
+258,105
+259,covering set
+260,1
+261,1
+262,1
+263,15
+264,partial algebra factors
+265,partial algebra factors
+266,1
+267,1
+268,1
+269,covering set
+270,3
+271,35
+272,1
+273,1
+274,partial algebra factors
+275,1
+276,15
+277,3
+278,15
+279,covering set
+280,23
+281,partial algebra factors
+282,3
+283,3
+284,partial algebra factors
+285,1
+286,163
+287,1
+288,1
+289,full algebra factors
+290,1
+291,77
+292,2927
+293,1
+294,partial algebra factors
+295,1
+296,1
+297,partial algebra factors
+298,93
+299,covering set
+300,1
+301,1
+302,5
+303,7
+304,partial algebra factors
+305,3
+306,1
+307,1
+308,13
+309,covering set
+310,1
+311,1
+312,3
+313,partial algebra factors
+314,partial algebra factors
+315,17
+316,1
+317,7
+318,1
+319,covering set
+320,1
+321,3471
+322,1
+323,1
+324,full algebra factors
+325,NA
+326,23
+327,1
+328,605
+329,partial algebra factors
+330,1
+331,1
+332,945
+333,1187
+334,partial algebra factors
+335,55
+336,1
+337,1
+338,1
+339,covering set
+340,3
+341,9
+342,5
+343,1
+344,partial algebra factors
+345,partial algebra factors
+346,129
+347,NA
+348,7
+349,covering set
+350,5
+351,1
+352,1
+353,1
+354,partial algebra factors
+355,1
+356,1
+357,2045
+358,1
+359,covering set
+360,315
+361,full algebra factors
+362,1
+363,297
+364,partial algebra factors
+365,1
+366,237
+367,3
+368,23
+369,partial algebra factors
+370,1
+371,1
+372,1
+373,1
+374,partial algebra factors
+375,11
+376,5
+377,partial algebra factors
+378,NA
+379,covering set
+380,3
+381,1
+382,2445
+383,1
+384,partial algebra factors
+385,1
+386,93
+387,1
+388,1
+389,covering set
+390,5
+391,1
+392,1
+393,partial algebra factors
+394,partial algebra factors
+395,1
+396,479
+397,11
+398,1
+399,covering set
+400,full algebra factors
+401,7
+402,1
+403,107
+404,partial algebra factors
+405,1
+406,3
+407,1
+408,1
+409,partial algebra factors
+410,111
+411,9
+412,NA
+413,1
+414,partial algebra factors
+415,1
+416,47
+417,3
+418,1
+419,covering set
+420,1
+421,1
+422,1
+423,19
+424,partial algebra factors
+425,partial algebra factors
+426,1
+427,31
+428,1
+429,covering set
+430,17
+431,9
+432,11
+433,1
+434,partial algebra factors
+435,173
+436,1
+437,1
+438,NA
+439,covering set
+440,15
+441,full algebra factors
+442,491
+443,1
+444,partial algebra factors
+445,3
+446,1
+447,1
+448,7
+449,partial algebra factors
+450,1
+451,1
+452,29
+453,1
+454,partial algebra factors
+455,3
+456,19
+457,partial algebra factors
+458,83
+459,covering set
+460,1
+461,35
+462,1
+463,1
+464,partial algebra factors
+465,1
+466,3
+467,33
+468,1
+469,covering set
+470,1
+471,15
+472,327
+473,partial algebra factors
+474,partial algebra factors
+475,1
+476,1
+477,49
+478,13
+479,covering set
+480,11
+481,1
+482,1
+483,NA
+484,full algebra factors
+485,1
+486,1
+487,51
+488,1
+489,partial algebra factors
+490,1
+491,3
+492,7
+493,1
+494,partial algebra factors
+495,29
+496,1
+497,143
+498,1
+499,covering set
+500,3
+501,21
+502,1
+503,9
+504,partial algebra factors
+505,partial algebra factors
+506,3
+507,1
+508,9
+509,covering set
+510,1115
+511,147
+512,7
+513,1
+514,partial algebra factors
+515,3
+516,1
+517,1
+518,21
+519,covering set
+520,1
+521,partial algebra factors
+522,15
+523,3
+524,partial algebra factors
+525,1
+526,1
+527,1
+528,1
+529,full algebra factors
+530,9
+531,1
+532,1
+533,23
+534,partial algebra factors
+535,7
+536,NA
+537,partial algebra factors
+538,31
+539,covering set
+540,3
+541,1
+542,1
+543,3
+544,partial algebra factors
+545,1
+546,351
+547,109
+548,1
+549,covering set
+550,15
+551,5
+552,1
+553,partial algebra factors
+554,partial algebra factors
+555,33
+556,1
+557,5
+558,1
+559,covering set
+560,1
+561,1
+562,3
+563,59
+564,partial algebra factors
+565,419
+566,NA
+567,1
+568,15
+569,partial algebra factors
+570,NA
+571,1191
+572,1
+573,1
+574,partial algebra factors
+575,5
+576,full algebra factors
+577,47
+578,107
+579,covering set
+580,3
+581,1
+582,1
+583,345
+584,partial algebra factors
+585,partial algebra factors
+586,1
+587,11
+588,9
+589,covering set
+590,1
+591,1
+592,NA
+593,271
+594,partial algebra factors
+595,1
+596,3
+597,171
+598,1
+599,covering set
+600,1
+601,partial algebra factors
+602,1
+603,1
+604,partial algebra factors
+605,1
+606,47
+607,1
+608,1
+609,partial algebra factors
+610,3
+611,1
+612,1
+613,3
+614,partial algebra factors
+615,1
+616,3
+617,partial algebra factors
+618,3
+619,covering set
+620,9
+621,3
+622,3
+623,1
+624,partial algebra factors
+625,full algebra factors
+626,5
+627,3
+628,1
+629,covering set
+630,1
+631,3
+632,19
+633,partial algebra factors
+634,partial algebra factors
+635,1
+636,NA
+637,1
+638,1
+639,covering set
+640,39
+641,17
+642,5
+643,73
+644,partial algebra factors
+645,1
+646,1
+647,2943
+648,855
+649,partial algebra factors
+650,1
+651,3
+652,1
+653,9
+654,partial algebra factors
+655,69
+656,1
+657,1
+658,47
+659,covering set
+660,1
+661,1
+662,3
+663,231
+664,partial algebra factors
+665,partial algebra factors
+666,3
+667,1
+668,1
+669,covering set
+670,1
+671,1
+672,1
+673,1
+674,partial algebra factors
+675,1
+676,full algebra factors
+677,1
+678,1
+679,covering set
+680,17
+681,partial algebra factors
+682,517
+683,15
+684,partial algebra factors
+685,9
+686,1
+687,149
+688,NA
+689,partial algebra factors
+690,15
+691,1
+692,21
+693,1
+694,partial algebra factors
+695,3
+696,1
+697,partial algebra factors
+698,583
+699,covering set
+700,1
+701,5
+702,1
+703,1
+704,partial algebra factors
+705,NA
+706,1
+707,1
+708,3
+709,covering set
+710,1
+711,NA
+712,7
+713,partial algebra factors
+714,partial algebra factors
+715,1
+716,3
+717,1
+718,NA
+719,covering set
+720,3
+721,1
+722,3023
+723,1
+724,partial algebra factors
+725,245
+726,9
+727,1
+728,1
+729,full algebra factors
+730,1
+731,29
+732,3
+733,3
+734,partial algebra factors
+735,1
+736,117
+737,1
+738,3
+739,covering set
+740,1
+741,1
+742,1837
+743,1
+744,partial algebra factors
+745,partial algebra factors
+746,3
+747,1
+748,29
+749,covering set
+750,3
+751,381
+752,3
+753,9
+754,partial algebra factors
+755,3
+756,1
+757,3
+758,13
+759,covering set
+760,125
+761,partial algebra factors
+762,1
+763,1
+764,partial algebra factors
+765,1
+766,5
+767,3
+768,1
+769,partial algebra factors
+770,23
+771,1
+772,1
+773,39
+774,partial algebra factors
+775,5
+776,1
+777,partial algebra factors
+778,1
+779,covering set
+780,1
+781,33
+782,3
+783,21
+784,full algebra factors
+785,1
+786,1767
+787,1
+788,NA
+789,covering set
+790,1
+791,1
+792,1
+793,partial algebra factors
+794,partial algebra factors
+795,9
+796,111
+797,25
+798,5
+799,covering set
+800,3
+801,5
+802,1101
+803,1
+804,partial algebra factors
+805,1
+806,1
+807,1
+808,NA
+809,partial algebra factors
+810,5
+811,3
+812,1
+813,3
+814,partial algebra factors
+815,27
+816,117
+817,1
+818,119
+819,covering set
+820,13
+821,1
+822,3
+823,NA
+824,partial algebra factors
+825,partial algebra factors
+826,1
+827,5
+828,1
+829,covering set
+830,NA
+831,1
+832,1
+833,1
+834,partial algebra factors
+835,NA
+836,1
+837,17
+838,1
+839,covering set
+840,1
+841,full algebra factors
+842,1
+843,1
+844,partial algebra factors
+845,1
+846,9
+847,49
+848,1355
+849,partial algebra factors
+850,1
+851,2271
+852,NA
+853,3
+854,partial algebra factors
+855,1
+856,1
+857,partial algebra factors
+858,4169
+859,covering set
+860,9
+861,5
+862,1
+863,3
+864,partial algebra factors
+865,3
+866,1
+867,3
+868,2403
+869,covering set
+870,1
+871,1
+872,39
+873,partial algebra factors
+874,partial algebra factors
+875,7
+876,1
+877,1
+878,1
+879,covering set
+880,1
+881,1
+882,1
+883,5
+884,partial algebra factors
+885,3
+886,3
+887,3
+888,3
+889,partial algebra factors
+890,1
+891,3
+892,119
+893,NA
+894,partial algebra factors
+895,1
+896,5
+897,1
+898,1
+899,covering set
+900,full algebra factors
+901,1
+902,1
+903,5
+904,partial algebra factors
+905,partial algebra factors
+906,9
+907,NA
+908,1
+909,covering set
+910,3
+911,1
+912,21
+913,5
+914,partial algebra factors
+915,5
+916,1
+917,1
+918,39
+919,covering set
+920,21
+921,partial algebra factors
+922,1
+923,1
+924,partial algebra factors
+925,1
+926,NA
+927,NA
+928,119
+929,partial algebra factors
+930,1
+931,3
+932,1
+933,1
+934,partial algebra factors
+935,573
+936,1
+937,partial algebra factors
+938,17
+939,covering set
+940,3
+941,317
+942,105
+943,1
+944,partial algebra factors
+945,1
+946,1
+947,1
+948,3
+949,covering set
+950,113
+951,5
+952,9
+953,partial algebra factors
+954,partial algebra factors
+955,1
+956,309
+957,1
+958,25
+959,covering set
+960,9
+961,full algebra factors
+962,5
+963,9
+964,partial algebra factors
+965,5
+966,1
+967,1103
+968,13
+969,partial algebra factors
+970,9
+971,1141
+972,1
+973,29
+974,partial algebra factors
+975,55
+976,1
+977,1961
+978,11
+979,covering set
+980,1
+981,1
+982,1
+983,1
+984,partial algebra factors
+985,partial algebra factors
+986,3
+987,1
+988,5
+989,covering set
+990,NA
+991,77
+992,159
+993,1
+994,partial algebra factors
+995,NA
+996,1
+997,1
+998,17
+999,covering set
+1000,1
+1001,partial algebra factors
+1002,3
+1003,1
+1004,partial algebra factors
+1005,3
+1006,29
+1007,9
+1008,7
+1009,partial algebra factors
+1010,NA
+1011,1
+1012,9
+1013,5
+1014,partial algebra factors
+1015,1
+1016,23
+1017,partial algebra factors
+1018,1
+1019,covering set
+1020,7
+1021,1
+1022,13
+1023,1
+1024,full algebra factors
