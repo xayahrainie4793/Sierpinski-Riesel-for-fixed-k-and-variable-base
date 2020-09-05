@@ -68,7 +68,7 @@
 69,partial algebra factors
 70,3
 71,1
-72,NA
+72,1119849
 73,1
 74,covering set
 75,5
@@ -208,13 +208,13 @@
 209,covering set
 210,1
 211,1
-212,NA
+212,34413
 213,3
 214,partial algebra factors
 215,1
 216,1
 217,15
-218,NA
+218,23049
 219,partial algebra factors
 220,1
 221,1
@@ -266,7 +266,7 @@
 267,5
 268,143
 269,covering set
-270,NA
+270,89661
 271,NA
 272,1
 273,1
@@ -299,7 +299,7 @@
 300,3
 301,1
 302,3
-303,NA
+303,198357
 304,partial algebra factors
 305,3
 306,1
@@ -308,7 +308,7 @@
 309,partial algebra factors
 310,NA
 311,5
-312,NA
+312,51565
 313,3
 314,covering set
 315,1
@@ -418,7 +418,7 @@
 419,covering set
 420,9
 421,3
-422,NA
+422,21737
 423,3
 424,partial algebra factors
 425,1
@@ -476,7 +476,7 @@
 477,1
 478,3
 479,covering set
-480,NA
+480,93609
 481,1
 482,135
 483,1
@@ -509,7 +509,7 @@
 510,1
 511,3
 512,2215
-513,NA
+513,38031
 514,partial algebra factors
 515,1579
 516,1
@@ -523,7 +523,7 @@
 524,covering set
 525,1
 526,1
-527,NA
+527,46073
 528,1
 529,full algebra factors
 530,11
@@ -533,7 +533,7 @@
 534,partial algebra factors
 535,NA
 536,1
-537,NA
+537,7287
 538,47
 539,covering set
 540,3
@@ -562,7 +562,7 @@
 563,1
 564,partial algebra factors
 565,5
-566,NA
+566,23873
 567,1
 568,1
 569,covering set
@@ -682,7 +682,7 @@
 683,1
 684,partial algebra factors
 685,5
-686,NA
+686,16583
 687,123
 688,3
 689,covering set
@@ -754,7 +754,7 @@
 755,1
 756,1
 757,1
-758,NA
+758,15573
 759,partial algebra factors
 760,1
 761,87
@@ -779,10 +779,10 @@
 780,1
 781,3
 782,3
-783,NA
+783,12507
 784,full algebra factors
 785,13
-786,NA
+786,8001
 787,1
 788,3
 789,partial algebra factors
@@ -796,7 +796,7 @@
 797,1
 798,1
 799,partial algebra factors
-800,NA
+800,33837
 801,1
 802,1
 803,89
@@ -917,7 +917,7 @@
 918,1
 919,partial algebra factors
 920,5
-921,NA
+921,98667
 922,1
 923,1
 924,partial algebra factors
@@ -943,7 +943,7 @@
 944,covering set
 945,1
 946,3
-947,NA
+947,10055
 948,3
 949,partial algebra factors
 950,5
@@ -961,7 +961,7 @@
 962,1
 963,1
 964,partial algebra factors
-965,NA
+965,8755
 966,1
 967,1
 968,NA
@@ -994,7 +994,7 @@
 995,35
 996,3
 997,NA
-998,NA
+998,8427
 999,partial algebra factors
 1000,5
 1001,1
