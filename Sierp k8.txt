@@ -124,7 +124,7 @@
 125,covering set
 126,1
 127,1
-128,NA
+128,no possible prime
 129,1
 130,1
 131,1
